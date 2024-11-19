@@ -45,7 +45,7 @@ const subLength = (word, sC) => {
     }
 
 }
-// bellow some examples to check it out
+// bellow some examples to check it out, thanks
 console.log(subLength('funny', 'n'));
 console.log(subLength('Saturday', 'a')); // returns 6
 console.log(subLength('summer', 'm')); // returns 2
